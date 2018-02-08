@@ -3,7 +3,7 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 
 ![Preview](preview.jpg)
 
-## Live links (replace with your own)
+## Live links
 - Leaflet Map https://vispalberlin.github.io/leaflet-maps-with-google-sheets/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1R5CQ9aJS3GM9rsRzIcAUGq1cw53JKn7s7IKSqvdHV0c/edit#gid=0
 
